@@ -4,7 +4,7 @@ Im COVID-19 Spring School, der Untergliederung Von Aufgabenblock werden
 
 ###  Uebung 2: Anforderungsanalyse und Planung von Auswertungen zu COVID-19
 
-###  [Uebung 3: Anforderungsanalyse und Planung von Auswertungen zu COVID-19](./uebung-3/)
+###  [Uebung 3: Kohortenabfragen mit FHIR Search](./uebung-3/)
 
 ###  Uebung 4: COVID-19 Forschung (GECCO - German Corona Consensus) 
 
