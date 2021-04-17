@@ -1,18 +1,18 @@
 # Table of Contents 
 Im COVID-19 Spring School, der Untergliederung Von Aufgabenblock werden
-###  Montag: Begrüßung und Vorstellung
+###  Uebung 1: Auswertung von COVID-19 Daten mit R
 
-###  Aufgabenblock Dienstag: Praktische Übungen
+###  Uebung 2: Anforderungsanalyse und Planung von Auswertungen zu COVID-19
 
-###  [Aufgabenblock Mittwoch:  Kohortenabfragen mit FHIR Search](./aufgabenblock_mittwoch_05_05_16_30/)
+###  [Uebung 3: Anforderungsanalyse und Planung von Auswertungen zu COVID-19](./uebung-3/)
 
-###  Aufgabenblock Donnerstag: 
+###  Uebung 4: COVID-19 Forschung (GECCO - German Corona Consensus) 
 
-###  Aufgabenblock Freitag:
+###  Uebung 5: Konzepte für lokale und standortübergreifende Auswertungen
 --- 
 Das Veranstaltung COVID-19 Spring School beginnt am 03/05/21
 
-Die Ordner struktur werden anhand der Aufgaben für jeden Tag kategorisiert und gruppiert.
+Die Ordner struktur werden anhand der Aufgaben kategorisiert und gruppiert.
 
 Tagesordnung finden Sie bitte im https://confluence.imi.med.fau.de/x/myzwC
 
