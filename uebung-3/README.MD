@@ -13,7 +13,7 @@ Im COVID-19 Spring School, der Untergliederung Von Aufgabenblock am mittwoch wer
 --- 
 
  
-Die Ordner sind weiter in drei Gruppen kategorisiert
-a) aufgabenstellung
-b) ablage zur skript
+Die Ordner sind weiter in zwei fach Gruppen kategorisiert
+a) aufgabenstellung (beinhaltet präsentation)
+b) ablage zur skript (beinhaltet r Skript)
 
