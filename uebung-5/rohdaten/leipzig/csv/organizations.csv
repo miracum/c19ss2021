@@ -1,0 +1,60 @@
+Id,NAME,ADDRESS,CITY,STATE,ZIP,LAT,LON,PHONE,REVENUE,UTILIZATION
+5c9703e5-3bc1-32c6-b387-2fcb4dd11d64,Evangelisches Diakonissenkrankenhaus Leipzig,Georg-Schwarz-Straße 59,Leipzig,Sachsen,04177,51.3432039,12.3189279,,270850.0,2627
+d044fdb3-a85d-3ccc-94cd-bac7ab78db77,Klinik Schkeuditz,Leipziger Straße 45,Schkeuditz,Sachsen,04435,51.3955646,12.2337809,,3225.0,39
+c9a82c46-a467-3410-86ad-092bdddaf5e6,Klinik für Pneumologie und Intensivmedizin,Nikolai-Rumjanzew-Straße 100,Leipzig,Sachsen,04207,51.3185012,12.3019232,,21000.0,169
+dedd9677-d9b8-33f3-b10a-fb57a5d820d0,St. Elisabeth-Krankenhaus,Biedermannstraße 84,Leipzig,Sachsen,04277,51.3036397,12.3786193,,190200.0,1842
+3e6a6db4-6817-3ea9-85f3-41f1b8fb9f81,Universitätsklinikum Leipzig,Liebigstraße 18,Leipzig,Sachsen,04103,51.328644,12.3865487,,427800.0,4028
+77d98253-4137-3ef1-97d3-719a4bfd5401,Dr Knoth-Zergiebel,,Taucha,Sachsen,04425,51.3789238,12.4919534,,18775.0,187
+d7a9273f-b66f-38ed-ab60-77656eeeedaa,Dr Richter,Leipziger Straße 41,Taucha,Sachsen,04425,51.3790918,12.4919136,,37225.0,383
+4ef863ec-781e-3c52-8b23-c1b7f868f8fa,Dr. med Heike Stansch,Marschnerstraße 23,Leipzig,Sachsen,04109,51.3370114,12.3556964,,81375.0,851
+b46443de-5073-3588-89ff-4ea947c96b42,Dr. med. Karen Dannemann,Mottelerstraße 15,Leipzig,Sachsen,04155,51.3649353,12.3564774,0341 5642329,475700.0,4759
+2a8aa9e8-2a14-3450-a593-7c27fda634dc,Facharztzentrum,,Leipzig,Sachsen,04109,51.3443731,12.3900742,,820225.0,8062
+46961db7-95f1-3528-afc6-d834fd92354b,Gemeinschaftspraxis Radiologie und Nuklearmedizin,Telemannstraße 6,Leipzig,Sachsen,04109,51.3273849,12.3661369,,86075.0,893
+b1d6e778-ae42-36fb-affd-11bb851d078c,HNO Aust,Hugo-Krone-Platz 9,Leipzig,Sachsen,04158,51.3938605,12.3732171,+49 341 5217129,1005125.0,10254
+0bc72cb1-87cf-3249-bf00-b5d228ef5e42,Hausarztpraxis Karsten Bernerth,,Leipzig,Sachsen,04109,51.3462014,12.3598351,,129975.0,1248
+4ffa3c28-0af0-36d0-bb3f-cf47ede5444e,Kieferchirurgische Gemeinschaftspraxis Dres. Neubauer  Schreder  Heinrich,Karl-Heine-Straße 24,Leipzig,Sachsen,04177,51.3326226,12.3417428,,168400.0,1701
+b114be6c-b778-3ef1-b2e8-48ff8c50d578,Klinik für kosmetische & plastische Chirurgie,Karl-Tauchnitz-Straße 7,Leipzig,Sachsen,04109,51.334433,12.3670137,,82850.0,889
+291374df-33b4-3514-86d3-2b533724dd57,Kopfzentrum,,Leipzig,Sachsen,04275,51.3173585,12.3703823,,149500.0,1444
+2c911722-57fc-3e80-bd58-78dcde69f6b6,Sachsenklinik,Waldstraße 14,Leipzig,Sachsen,04109,51.3432237,12.3590864,,15650.0,180
+2440f425-915c-3b81-b858-b938a19a797e,Ärztehaus,,Leipzig,Sachsen,04209,51.3178425,12.29775,,249350.0,2375
+7dcfec97-fe59-32d0-9438-bfbb3145be91,Ärztehaus Grünauer Allee,Grünauer Allee 49,Leipzig,Sachsen,04209,51.3232099,12.302453,,104975.0,1081
+f4016de2-ae21-3830-a035-333fb1731b9e,Ärztehaus Straße am Park,Straße am Park 2,Leipzig,Sachsen,04209,51.3164196,12.3046294,,143950.0,1410
+f6814004-539d-3a52-ae51-23b7ee8a18ac,Evangelisches Diakonissenkrankenhaus Leipzig,Georg-Schwarz-Straße 59,Leipzig,Sachsen,04177,51.3432039,12.3189279,,162500.0,1303
+504c1b17-f688-368b-856d-3b5941bf0668,Klinik Schkeuditz,Leipziger Straße 45,Schkeuditz,Sachsen,04435,51.3955646,12.2337809,,10750.0,86
+bb0ba473-def5-35c1-8e40-f7c97bcd2252,St. Elisabeth-Krankenhaus,Biedermannstraße 84,Leipzig,Sachsen,04277,51.3036397,12.3786193,,142125.0,1141
+3cd97eec-bd1f-3e09-8528-88c0fad038d9,Universitätsklinikum Leipzig,Liebigstraße 18,Leipzig,Sachsen,04103,51.328644,12.3865487,,202500.0,1630
+0d57c608-42e4-3879-9b6f-c5e33137a9d9,Dr Knoth-Zergiebel,,Taucha,Sachsen,04425,51.3789238,12.4919534,,20000.0,160
+98c648b0-17a8-3814-8727-2b826336f6de,Dr Richter,Leipziger Straße 41,Taucha,Sachsen,04425,51.3790918,12.4919136,,30125.0,242
+7a352336-99c6-32b4-8bbf-6deb3c9d42a3,Dr. med Heike Stansch,Marschnerstraße 23,Leipzig,Sachsen,04109,51.3370114,12.3556964,,63000.0,504
+edce3cf4-ff68-3e64-8010-ad3dbd00e827,Dr. med. Karen Dannemann,Mottelerstraße 15,Leipzig,Sachsen,04155,51.3649353,12.3564774,0341 5642329,311000.0,2498
+b0746430-1839-3a53-953b-616124452bb8,Facharztzentrum,,Leipzig,Sachsen,04109,51.3443731,12.3900742,,544000.0,4366
+fad09cbf-8ce3-3662-9d77-dc7344776155,Gemeinschaftspraxis Radiologie und Nuklearmedizin,Telemannstraße 6,Leipzig,Sachsen,04109,51.3273849,12.3661369,,51500.0,413
+62cc61b0-0abe-3461-8b52-0ef9c8edfd67,HNO Aust,Hugo-Krone-Platz 9,Leipzig,Sachsen,04158,51.3938605,12.3732171,+49 341 5217129,703375.0,5639
+7a3e325c-0021-3279-b897-414b7f4d0d5e,Hausarztpraxis Karsten Bernerth,,Leipzig,Sachsen,04109,51.3462014,12.3598351,,89000.0,713
+694a2870-0716-325c-a02a-dcb1b1cf74b0,Kieferchirurgische Gemeinschaftspraxis Dres. Neubauer  Schreder  Heinrich,Karl-Heine-Straße 24,Leipzig,Sachsen,04177,51.3326226,12.3417428,,140250.0,1126
+1d9e7e9a-1d31-318c-a158-71485de6c457,Klinik für kosmetische & plastische Chirurgie,Karl-Tauchnitz-Straße 7,Leipzig,Sachsen,04109,51.334433,12.3670137,,54125.0,435
+efa00939-d553-3ac3-9ca8-e71416779c10,Kopfzentrum,,Leipzig,Sachsen,04275,51.3173585,12.3703823,,66250.0,533
+ff6587e5-061a-39ab-b77e-0b11608c5ba7,Sachsenklinik,Waldstraße 14,Leipzig,Sachsen,04109,51.3432237,12.3590864,,8625.0,69
+6c17d8cb-a110-39ae-bb3f-82fc86afcb16,Ärztehaus,,Leipzig,Sachsen,04209,51.3178425,12.29775,,149125.0,1197
+2ef380ea-90c1-3ab4-938c-7d9f33f9cd79,Ärztehaus Grünauer Allee,Grünauer Allee 49,Leipzig,Sachsen,04209,51.3232099,12.302453,,57125.0,458
+36d710cf-df43-3e02-9320-7ac607c3b8aa,Ärztehaus Straße am Park,Straße am Park 2,Leipzig,Sachsen,04209,51.3164196,12.3046294,,119500.0,960
+ad291973-bb85-31a0-8e08-efa559665d6b,Evangelisches Diakonissenkrankenhaus Leipzig,Georg-Schwarz-Straße 59,Leipzig,Sachsen,04177,51.3432039,12.3189279,,60250.0,485
+c84abcd3-18be-34b5-95c3-829f76e57e34,Klinik Schkeuditz,Leipziger Straße 45,Schkeuditz,Sachsen,04435,51.3955646,12.2337809,,250.0,2
+2da66360-a409-311b-a640-5fa5f11e22fa,Klinik für Pneumologie und Intensivmedizin,Nikolai-Rumjanzew-Straße 100,Leipzig,Sachsen,04207,51.3185012,12.3019232,,20750.0,168
+8a4cfcbe-a5f1-3d00-963a-ed6c7340e6c9,St. Elisabeth-Krankenhaus,Biedermannstraße 84,Leipzig,Sachsen,04277,51.3036397,12.3786193,,24800.0,200
+0fa87047-86a2-3a48-af74-c76b54969710,Universitätsklinikum Leipzig,Liebigstraße 18,Leipzig,Sachsen,04103,51.328644,12.3865487,,112250.0,905
+6ef72115-2aa0-375a-93a6-81063abb340f,Dr Knoth-Zergiebel,,Taucha,Sachsen,04425,51.3789238,12.4919534,,375.0,3
+fbdc97d2-d0c2-341a-9200-ce38a3668d56,Dr Richter,Leipziger Straße 41,Taucha,Sachsen,04425,51.3790918,12.4919136,,375.0,3
+20043717-bb9a-3913-be5a-68e0d512c3c7,Dr. med Heike Stansch,Marschnerstraße 23,Leipzig,Sachsen,04109,51.3370114,12.3556964,,4000.0,32
+98d83ac6-ec02-36c3-8147-64a76a5a26b8,Dr. med. Karen Dannemann,Mottelerstraße 15,Leipzig,Sachsen,04155,51.3649353,12.3564774,0341 5642329,25875.0,207
+84ab1bc9-7de7-37ea-9160-c3ffb9391406,Facharztzentrum,,Leipzig,Sachsen,04109,51.3443731,12.3900742,,61250.0,490
+22ebb86c-328b-31ae-93b3-ff34b458b7f5,Gemeinschaftspraxis Radiologie und Nuklearmedizin,Telemannstraße 6,Leipzig,Sachsen,04109,51.3273849,12.3661369,,29750.0,238
+ddfbf82a-5f7c-37b3-8f2d-ee0ecee06716,HNO Aust,Hugo-Krone-Platz 9,Leipzig,Sachsen,04158,51.3938605,12.3732171,+49 341 5217129,80500.0,644
+e99e2279-be16-31e9-b8f1-90759b7fa3d1,Hausarztpraxis Karsten Bernerth,,Leipzig,Sachsen,04109,51.3462014,12.3598351,,3250.0,26
+853946d2-8a43-369a-b2e9-8bb80ffb9406,Kieferchirurgische Gemeinschaftspraxis Dres. Neubauer  Schreder  Heinrich,Karl-Heine-Straße 24,Leipzig,Sachsen,04177,51.3326226,12.3417428,,5375.0,43
+d990b5b4-d647-3622-b33c-3985c86db24b,Klinik für kosmetische & plastische Chirurgie,Karl-Tauchnitz-Straße 7,Leipzig,Sachsen,04109,51.334433,12.3670137,,4000.0,32
+c89c0a94-3b0e-3eed-be40-5d6b99b6a31a,Kopfzentrum,,Leipzig,Sachsen,04275,51.3173585,12.3703823,,23250.0,186
+940a8547-cf2b-3225-9deb-14fe829a0257,Sachsenklinik,Waldstraße 14,Leipzig,Sachsen,04109,51.3432237,12.3590864,,250.0,2
+1be238ac-771a-3193-8467-080b6f539b09,Ärztehaus,,Leipzig,Sachsen,04209,51.3178425,12.29775,,5750.0,46
+44e1a35c-6f69-3cee-9211-fbf8fb4586ca,Ärztehaus Grünauer Allee,Grünauer Allee 49,Leipzig,Sachsen,04209,51.3232099,12.302453,,2125.0,17
+34f3ee19-98bd-315d-8656-bbf81ae83091,Ärztehaus Straße am Park,Straße am Park 2,Leipzig,Sachsen,04209,51.3164196,12.3046294,,4875.0,39

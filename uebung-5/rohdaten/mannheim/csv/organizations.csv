@@ -1,0 +1,43 @@
+Id,NAME,ADDRESS,CITY,STATE,ZIP,LAT,LON,PHONE,REVENUE,UTILIZATION
+6ad0e789-51fe-3f52-a93e-e3eee4c73d15,Diakoniekrankenhaus Mannheim,Speyerer Straße 91-93,Mannheim,Baden-württemberg,68199,49.4646903,8.4694934,+49 621 81020,670525.0,6551
+fc007254-a010-3804-bf58-77e78fefd1b7,Frauenklinik/Ambulanz,,Mannheim,Baden-württemberg,68167,49.4931676,8.4870569,,71400.0,738
+30e538d9-96b6-34fd-8a1a-ff88eaee68b0,Frauenklinik/Kreißsaal,,Mannheim,Baden-württemberg,68167,49.4934309,8.4860861,,215200.0,2253
+e1a63e73-da5d-37e4-a296-041cb4892c27,Theresien-Krankenhaus,,Mannheim,Baden-württemberg,68161,49.4894971,8.4809103,,98975.0,883
+ab92ea65-f932-3e50-a55b-83de34adec1e,Universitätsmedizin Mannheim,Theodor-Kutzer-Ufer 1-3,Mannheim,Baden-württemberg,68161,49.4911923,8.4867339,+49 621 383 0,268850.0,2538
+87647fc1-c7b7-3642-ae27-a1d8a32815d0,ZI-Klinik für abhängiges Verhalten,nan 13,Mannheim,Baden-württemberg,68161,49.4934698,8.468741,,127975.0,1346
+a03aee89-b5b5-326b-876e-d4466f7d830b,Zentralinstitut für Seelische Gesundheit,,Mannheim,Baden-württemberg,68161,49.4926776,8.4680223,,825.0,11
+854e9455-499d-3073-a4ac-2efb5d489836,Zentralinstitut für Seelische Gesundheit,,Mannheim,Baden-württemberg,68161,49.4929288,8.4654366,,1026700.0,10253
+1fe25371-708c-3d10-b68b-25dcdcc218c4,Dr. Barbara Zielinska-Nolte,Mühlenstraße 14,Schwetzingen,Baden-württemberg,68723,49.3881422,8.5739203,,23525.0,259
+b2383ef0-0713-38cb-b527-efad93ef6240,Dr. Passon / Dr. Scharfenstein,Eichelbergstraße 10,Mannheim,Baden-württemberg,68199,49.4632193,8.4755795,,413350.0,4028
+1deb33cb-3c96-34c2-a383-129bec4ceb67,Dr. med. Hera Bluhm,Am Hirschplatz 2,Heddesheim,Baden-württemberg,68542,49.5034727,8.60087,+49 6203 41731,86150.0,900
+cdc19ead-90a5-3f3b-9663-0e9e3f550af4,Praxis Dr.med.Wolfgang Metz,Alemannenweg 5,Ladenburg,Baden-württemberg,68526,49.4778431,8.6093488,,44475.0,405
+289664f7-d53f-32a7-b615-7ed88c567209,Werksärztliche Abteilung,,Mannheim,Baden-württemberg,68199,49.4706004,8.4741714,,99775.0,969
+8fa1a554-910a-3bd1-83d4-10d356fc23bd,Zentrums für Chirurgie und Orthopädie Mannheim | Worms,Mannheimer Straße 102,Mannheim,Baden-württemberg,68309,49.5056493,8.507538,,1252925.0,12653
+9900d3a9-9620-3be4-92fa-98cd166bcbf5,Diakoniekrankenhaus Mannheim,Speyerer Straße 91-93,Mannheim,Baden-württemberg,68199,49.4646903,8.4694934,+49 621 81020,443250.0,3556
+360b711c-5472-3202-94cd-7c0d4f3824fd,Frauenklinik/Ambulanz,,Mannheim,Baden-württemberg,68167,49.4931676,8.4870569,,57500.0,460
+0e387ec3-bf68-3c70-a3e0-8adc6c96efda,Frauenklinik/Kreißsaal,,Mannheim,Baden-württemberg,68167,49.4934309,8.4860861,,179000.0,1436
+eb249fa0-e02a-33ff-9aa8-54589555d60e,Theresien-Krankenhaus,,Mannheim,Baden-württemberg,68161,49.4894971,8.4809103,,34875.0,279
+0cb234d3-1858-331a-b2c6-8ada7ad27ac3,Universitätsmedizin Mannheim,Theodor-Kutzer-Ufer 1-3,Mannheim,Baden-württemberg,68161,49.4911923,8.4867339,+49 621 383 0,143625.0,1151
+36d347f1-519f-3880-bebf-6e0a326f804e,ZI-Klinik für abhängiges Verhalten,nan 13,Mannheim,Baden-württemberg,68161,49.4934698,8.468741,,113875.0,913
+5579deff-48a3-3789-a33d-8c14fac183d0,Zentralinstitut für Seelische Gesundheit,,Mannheim,Baden-württemberg,68161,49.4926776,8.4680223,,2750.0,22
+c036de43-fd08-3685-a28c-e5662150ce0a,Zentralinstitut für Seelische Gesundheit,,Mannheim,Baden-württemberg,68161,49.4929288,8.4654366,,749625.0,6025
+35f556fd-9281-3dd3-b9de-695470920938,Dr. Barbara Zielinska-Nolte,Mühlenstraße 14,Schwetzingen,Baden-württemberg,68723,49.3881422,8.5739203,,26500.0,213
+778dcace-1f3b-315c-9fa2-d037baca253b,Dr. Passon / Dr. Scharfenstein,Eichelbergstraße 10,Mannheim,Baden-württemberg,68199,49.4632193,8.4755795,,305375.0,2451
+8496b545-ab53-3984-a5c8-cccd6a8ca67b,Dr. med. Hera Bluhm,Am Hirschplatz 2,Heddesheim,Baden-württemberg,68542,49.5034727,8.60087,+49 6203 41731,62250.0,498
+b79dcc97-2b5b-3aef-b819-f668a6102a64,Praxis Dr.med.Wolfgang Metz,Alemannenweg 5,Ladenburg,Baden-württemberg,68526,49.4778431,8.6093488,,29250.0,234
+b2d1e34f-b4f9-33b6-bbb9-d508e1e05762,Werksärztliche Abteilung,,Mannheim,Baden-württemberg,68199,49.4706004,8.4741714,,86375.0,693
+336d442d-7490-30f6-b7bc-3bb8eb63e845,Zentrums für Chirurgie und Orthopädie Mannheim | Worms,Mannheimer Straße 102,Mannheim,Baden-württemberg,68309,49.5056493,8.507538,,930125.0,7471
+19a41eb8-d91f-3515-81cc-63923af0b64e,Diakoniekrankenhaus Mannheim,Speyerer Straße 91-93,Mannheim,Baden-württemberg,68199,49.4646903,8.4694934,+49 621 81020,99025.0,800
+e017fedb-9e8d-3498-becf-471d7b69c82d,Frauenklinik/Ambulanz,,Mannheim,Baden-württemberg,68167,49.4931676,8.4870569,,9875.0,79
+a9895b1b-0ad6-3783-aebc-192acbaf630c,Frauenklinik/Kreißsaal,,Mannheim,Baden-württemberg,68167,49.4934309,8.4860861,,53750.0,430
+21597f49-2103-3948-8232-8f74466ad30d,Theresien-Krankenhaus,,Mannheim,Baden-württemberg,68161,49.4894971,8.4809103,,46450.0,377
+e3abc7c9-8f53-3da1-b556-6274c49395a2,Universitätsmedizin Mannheim,Theodor-Kutzer-Ufer 1-3,Mannheim,Baden-württemberg,68161,49.4911923,8.4867339,+49 621 383 0,101200.0,816
+7f55873a-278f-3300-b9c5-36a07e1bb60c,ZI-Klinik für abhängiges Verhalten,nan 13,Mannheim,Baden-württemberg,68161,49.4934698,8.468741,,6250.0,50
+19b9c7a7-c7c9-3823-ab8d-8cd2be8a261d,Zentralinstitut für Seelische Gesundheit,,Mannheim,Baden-württemberg,68161,49.4926776,8.4680223,,375.0,3
+3a76f4b6-7914-3667-9713-3c78d187026d,Zentralinstitut für Seelische Gesundheit,,Mannheim,Baden-württemberg,68161,49.4929288,8.4654366,,29375.0,235
+97c45311-dbee-3255-9c71-c1ec2c8ffd81,Dr. Barbara Zielinska-Nolte,Mühlenstraße 14,Schwetzingen,Baden-württemberg,68723,49.3881422,8.5739203,,250.0,2
+924ddcd3-25e2-3848-a4fa-13c2743aff83,Dr. Passon / Dr. Scharfenstein,Eichelbergstraße 10,Mannheim,Baden-württemberg,68199,49.4632193,8.4755795,,10625.0,85
+f3d81098-c7ac-3f50-abe5-6178befbe108,Dr. med. Hera Bluhm,Am Hirschplatz 2,Heddesheim,Baden-württemberg,68542,49.5034727,8.60087,+49 6203 41731,1250.0,10
+e32feb24-aff1-3010-a0a6-d6bd91422087,Praxis Dr.med.Wolfgang Metz,Alemannenweg 5,Ladenburg,Baden-württemberg,68526,49.4778431,8.6093488,,250.0,2
+a78f3a2f-2055-39ed-adcf-ce66fa92815d,Werksärztliche Abteilung,,Mannheim,Baden-württemberg,68199,49.4706004,8.4741714,,2250.0,18
+fc09e72a-4ca9-37b8-abfa-4af0b4d72fd7,Zentrums für Chirurgie und Orthopädie Mannheim | Worms,Mannheimer Straße 102,Mannheim,Baden-württemberg,68309,49.5056493,8.507538,,34625.0,277

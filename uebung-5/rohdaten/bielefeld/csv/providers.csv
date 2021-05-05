@@ -1,0 +1,44 @@
+Id,ORGANIZATION,NAME,GENDER,SPECIALITY,ADDRESS,CITY,STATE,ZIP,LAT,LON,UTILIZATION
+c4aea0f3-6a6f-3710-82c4-ad1913dd1375,67703e98-17ea-3706-aef7-e1eb628dfedd,Louise871 Grant908,F,GENERAL PRACTICE,Remterweg 13a,Bielefeld,Nordrhein-westfalen,33604,52.0081306,8.5322284,1191
+7e04a320-2f7b-307a-82e3-304e490ed2cb,f9cfdbd8-3f69-3b07-9219-129af061acb3,Danny396 Wilderman619,M,GENERAL PRACTICE,Kiskerstraße 15,Bielefeld,Nordrhein-westfalen,33604,52.023177,8.5214898,11859
+e0222084-e3b8-3221-be55-d7d1d4b07a21,1a0f2120-ddd9-3d26-ad7e-a7f140c5b94a,Laurena366 Wyman904,F,GENERAL PRACTICE,Karl-Siebold-Weg 44,Bielefeld,Nordrhein-westfalen,33604,52.0027825,8.5333355,1692
+60674914-bc75-3123-ad34-d6116d4660f3,aa85a4ac-d0e8-3334-b870-ee4e0af7de2f,Lauren941 Brown30,M,GENERAL PRACTICE,Teutoburger Straße 50,Bielefeld,Nordrhein-westfalen,33604,52.0125062,8.5444956,6136
+785aeb24-9866-3d44-af07-023f6fe12071,be13aac5-65a0-3247-9711-8588c21c4628,Linh535 Jast432,F,GENERAL PRACTICE,An der Rosenhöhe 27,,Nordrhein-westfalen,,51.9823113,8.530265,8439
+ceebf2f7-661b-3ec4-bb44-4e6eee8ced08,a2f92a79-1d79-3335-a554-b43d55657bb2,Cleo27 Lindgren255,F,GENERAL PRACTICE,Reckenberger Straße 19,Gütersloh,Nordrhein-westfalen,33330,51.8979988,8.3829917,11
+c81289e0-9249-378c-ad09-9d44be52c1b0,94bf3448-21e1-3671-925b-4822c783d97f,Ulysses632 Schumm995,M,GENERAL PRACTICE,Hindenburgstraße 56,Bünde,Nordrhein-westfalen,32257,52.1975705,8.5935559,76
+4641cb75-2922-312b-98d5-c0eaf9278888,b794bd15-684a-3128-a8c2-5eb56b7f8cff,Sanjuanita786 O'Conner199,F,GENERAL PRACTICE,,Herford,Nordrhein-westfalen,32052,52.1125652,8.6756965,1458
+6fd9594d-ec47-3f37-bf0f-76e39bd5bd9e,52b4a8e2-08f7-333e-89e6-7066bc5a0fe2,Roxann426 Gerhold939,F,GENERAL PRACTICE,Oelmühlenstraße 30,Bielefeld,Nordrhein-westfalen,33604,52.0156225,8.5449718,12611
+d277c3d2-9212-3fef-ab76-c24f66e3fec6,ab077ec4-4e35-3c63-bae4-a0bac10a38c6,Royce974 Gutmann970,M,GENERAL PRACTICE,Goldstraße 52,Oerlinghausen,Nordrhein-westfalen,33813,51.9711377,8.7047867,320
+8afab60b-da8d-3657-95b4-42b92da7520c,1cf92fc1-f8cb-3be0-a32a-33feed5e2ec2,Lashandra868 Batz141,F,GENERAL PRACTICE,Gartnischer Weg 96,Halle (Westfalen),Nordrhein-westfalen,33790,52.0504699,8.3731296,78
+a5a057a9-6ac3-3ef1-9673-9d74c7efe284,4c5bf191-6c11-34e5-9dfb-10149b8aaa1f,Nicky270 Kuhn96,M,GENERAL PRACTICE,Avenwedder Straße 50,Gütersloh,Nordrhein-westfalen,33335,51.9116094,8.4299436,1580
+a914a78f-2703-3b52-a2ec-2ee886ef0c0b,bf1ceadc-1ac3-3276-ac00-170dba1b6df1,Jolanda321 Koelpin146,F,GENERAL PRACTICE,Hansastraße 26,Herford,Nordrhein-westfalen,32052,52.1213795,8.6749739,82
+099134af-e3ba-3183-a8f9-db1906456d15,ea45c45a-bf52-30de-a50a-cd363d3849d2,Marcelene872 Daniel959,F,GENERAL PRACTICE,Hangbaumstraße 5a,Bünde,Nordrhein-westfalen,32257,52.1967538,8.5840144,382
+318801f7-bf93-32f6-904c-2b300f7b9bed,3f8bff4c-8ae7-3539-84c8-d4cecd92f3fa,Justin359 O'Connell601,M,GENERAL PRACTICE,Teutoburger Straße 60,Bielefeld,Nordrhein-westfalen,33604,52.0157797,8.5429662,437
+4f3c8a99-542e-31d0-a039-12ded2988ec3,ebd24b3f-0873-34d6-b3fe-d4eeb51983ac,Milly429 Dickinson688,F,GENERAL PRACTICE,Remterweg 13a,Bielefeld,Nordrhein-westfalen,33604,52.0081306,8.5322284,312
+845b0752-e80c-37bf-ba2a-3e8010d8bf50,6779819c-3ec6-384a-a4cf-0cfad93d9ed6,Brendan864 Turcotte120,M,GENERAL PRACTICE,Kiskerstraße 15,Bielefeld,Nordrhein-westfalen,33604,52.023177,8.5214898,6746
+3cb3bec8-045c-3b6d-be5d-bc36493c3de3,1f9db4b2-ff3f-30ca-9243-18ba4bd03f51,Ingeborg677 Conroy74,F,GENERAL PRACTICE,Karl-Siebold-Weg 44,Bielefeld,Nordrhein-westfalen,33604,52.0027825,8.5333355,1309
+4214286a-ce1c-32c9-8eec-5aa80131599e,b0bd67cf-e687-3abb-b1e5-94eee379b025,Jack927 Ward668,M,GENERAL PRACTICE,Teutoburger Straße 50,Bielefeld,Nordrhein-westfalen,33604,52.0125062,8.5444956,2974
+db57895a-a372-3e9c-a84a-8beaf1e8bc52,37e96239-8fda-3328-b5fa-2a63a5028c52,Kim439 Kovacek682,F,GENERAL PRACTICE,An der Rosenhöhe 27,,Nordrhein-westfalen,,51.9823113,8.530265,5340
+06e78972-5ac9-3bd6-b2d6-00ca1280192f,0f2e2a4d-5cb6-3cc0-8d1d-dd245fcd8c55,Teisha100 Heidenreich818,F,GENERAL PRACTICE,,Herford,Nordrhein-westfalen,32052,52.1125652,8.6756965,985
+a43d8b24-03fe-3be5-abee-238c81f3305b,89eac1d2-599d-37ce-81fe-5d7ea810587f,Agnes294 Rogahn59,F,GENERAL PRACTICE,Oelmühlenstraße 30,Bielefeld,Nordrhein-westfalen,33604,52.0156225,8.5449718,7652
+8889650b-feff-39ff-9e0c-114bfbfcf3e5,e9a1780e-8e2d-3278-9b3e-4d5dbe623673,Bertram873 Abbott774,M,GENERAL PRACTICE,Goldstraße 52,Oerlinghausen,Nordrhein-westfalen,33813,51.9711377,8.7047867,167
+ff15e12a-4f3e-3a97-91ac-7254f148ea9f,28ab1b1d-dda1-399e-927a-7b55b8a1e8a6,Yan646 Friesen796,F,GENERAL PRACTICE,Gartnischer Weg 96,Halle (Westfalen),Nordrhein-westfalen,33790,52.0504699,8.3731296,56
+23c13996-60c6-3459-955d-5e4b7105aa6a,d85d741f-e1e3-3fe5-9782-d64632216d02,Long300 Kessler503,M,GENERAL PRACTICE,Avenwedder Straße 50,Gütersloh,Nordrhein-westfalen,33335,51.9116094,8.4299436,765
+45b072fc-6459-3b31-897d-72c27aeb2c5e,1e4b00cc-5669-3e84-971c-acaf079d3e0d,Laraine204 Wiegand701,F,GENERAL PRACTICE,Hansastraße 26,Herford,Nordrhein-westfalen,32052,52.1213795,8.6749739,62
+11653945-d6a4-3b0d-8442-89db04acc4f7,8157edc9-ed96-3932-ac77-1228f0fd9729,Julieann172 Volkman526,F,GENERAL PRACTICE,Hangbaumstraße 5a,Bünde,Nordrhein-westfalen,32257,52.1967538,8.5840144,133
+b9a9c546-f8b6-36ce-a50b-9057813cd51a,446fdadd-ed4a-3ba5-a813-b2f0eb491fb3,Lacy523 Conn188,M,GENERAL PRACTICE,Teutoburger Straße 60,Bielefeld,Nordrhein-westfalen,33604,52.0157797,8.5429662,248
+b10a719e-9e0c-3e27-8030-dd5baa35bd31,ab39d881-2409-3c6d-83fe-aec769255cb0,Olga567 Kozey370,F,GENERAL PRACTICE,Remterweg 13a,Bielefeld,Nordrhein-westfalen,33604,52.0081306,8.5322284,405
+dad7943b-d841-319e-873c-f974857e7ec9,b89eccdb-7b1b-3d13-96cd-af098db6f898,Sherwood961 Hudson301,M,GENERAL PRACTICE,Kiskerstraße 15,Bielefeld,Nordrhein-westfalen,33604,52.023177,8.5214898,266
+851f2e7f-670e-36fc-b89b-7331dfe5f040,7247564b-7a75-3710-a760-f02f101ed9aa,Luanne915 Smitham825,F,GENERAL PRACTICE,Karl-Siebold-Weg 44,Bielefeld,Nordrhein-westfalen,33604,52.0027825,8.5333355,52
+4d8a5824-a2a2-3b1f-b318-4e2d514abc2a,56735b31-1698-36c3-bada-b09ab6cdf2c3,Boris111 Thiel172,M,GENERAL PRACTICE,Teutoburger Straße 50,Bielefeld,Nordrhein-westfalen,33604,52.0125062,8.5444956,1159
+362c15e9-ca2e-395c-8ebe-8eda3630b02b,9772418b-9d8e-3473-ad0c-0233b76b88a7,Myrna889 Daugherty69,F,GENERAL PRACTICE,An der Rosenhöhe 27,,Nordrhein-westfalen,,51.9823113,8.530265,797
+9305cb44-23fd-386c-a3cb-46c0c83b2480,dac4de64-2ba5-3c9c-9162-3fb73211393a,Elenore794 Reichel38,F,GENERAL PRACTICE,Reckenberger Straße 19,Gütersloh,Nordrhein-westfalen,33330,51.8979988,8.3829917,40
+35f06870-1607-3fac-877e-b55816c10be6,22d0cd51-adf8-3b72-b564-b41f73c3834a,Andrea7 Kassulke119,M,GENERAL PRACTICE,Hindenburgstraße 56,Bünde,Nordrhein-westfalen,32257,52.1975705,8.5935559,16
+1884ffdd-aba9-3db0-9c93-ff4f168df27a,4b0d0f4e-fe4d-3866-9c49-52f1002f138e,Stacee229 Grant908,F,GENERAL PRACTICE,,Herford,Nordrhein-westfalen,32052,52.1125652,8.6756965,36
+2673ff6e-951f-3134-84b9-aed813c5c42e,72216e9a-ac07-3121-8127-9f48461943e1,Deann56 Effertz744,F,GENERAL PRACTICE,Oelmühlenstraße 30,Bielefeld,Nordrhein-westfalen,33604,52.0156225,8.5449718,876
+3ce65472-d130-3eb0-823e-3547f072ebf1,b4231c87-f786-3a80-9038-ea4442a906ee,Ernie189 Kohler843,M,GENERAL PRACTICE,Goldstraße 52,Oerlinghausen,Nordrhein-westfalen,33813,51.9711377,8.7047867,8
+9d98f935-f0f8-316c-98e6-8637a5b58d0e,4f95f708-98eb-3ac1-94aa-bbb842e942df,Tula326 Dooley940,F,GENERAL PRACTICE,Gartnischer Weg 96,Halle (Westfalen),Nordrhein-westfalen,33790,52.0504699,8.3731296,2
+59662aac-bc51-3e14-acb1-f0bc84024d0a,3f893fb2-e7d1-30ba-a3f6-2126b64df5da,Del587 Kreiger457,M,GENERAL PRACTICE,Avenwedder Straße 50,Gütersloh,Nordrhein-westfalen,33335,51.9116094,8.4299436,455
+d6887af1-78a6-387e-a977-4db5620277c9,50024a67-c230-34e2-85e5-9323250275a1,Dulce933 Bosco882,F,GENERAL PRACTICE,Hansastraße 26,Herford,Nordrhein-westfalen,32052,52.1213795,8.6749739,1
+1bad5e45-0dee-385a-a5dc-2181f8168be0,9d32ab8d-be7c-3233-8894-b15938c9eb76,Joette227 Schneider199,F,GENERAL PRACTICE,Hangbaumstraße 5a,Bünde,Nordrhein-westfalen,32257,52.1967538,8.5840144,31
+835cedac-2a8a-3e12-9b20-a5cd8999d164,be515e8b-b0f8-30a5-ace1-565f117e4145,Dana512 Bogisich202,M,GENERAL PRACTICE,Teutoburger Straße 60,Bielefeld,Nordrhein-westfalen,33604,52.0157797,8.5429662,9
