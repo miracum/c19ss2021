@@ -8,7 +8,7 @@ Im COVID-19 Spring School, der Untergliederung Von Aufgabenblock werden
 
 ###  Uebung 4: COVID-19 Forschung (GECCO - German Corona Consensus) 
 
-###  Uebung 5: Konzepte für lokale und standortübergreifende Auswertungen
+###  [Uebung 5: Konzepte für lokale und standortübergreifende Auswertungen](./uebung-5/)
 --- 
 Das Veranstaltung COVID-19 Spring School beginnt am 03/05/21
 
